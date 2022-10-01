@@ -1,0 +1,16 @@
+{
+  "Shape": {
+    "Type": "Sphere",
+    "IsCollapsed": false,
+    "Clr": 17,
+    "Transform": {
+      "IsCollapsed": false,
+      "Pos": {
+        "X": 362,
+        "Y": 258,
+        "Z": 0
+      }
+    }
+  },
+  "IsCollapsed": false
+}
